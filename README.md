@@ -1,5 +1,5 @@
 # CAN_BUS
-This  repository is done in  response to the kiwibot interview
+This  repository is done in  response to the kiwibot interview , gonna be streaming at https://www.youtube.com/c/MauricioRiosvisionesderobot/
 
 # Goal
 
